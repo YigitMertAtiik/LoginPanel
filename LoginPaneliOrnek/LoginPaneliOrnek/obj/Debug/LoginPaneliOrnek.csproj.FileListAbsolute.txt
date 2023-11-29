@@ -1,0 +1,11 @@
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\bin\Debug\LoginPaneliOrnek.exe.config
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\bin\Debug\LoginPaneliOrnek.exe
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\bin\Debug\LoginPaneliOrnek.pdb
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.csproj.AssemblyReference.cache
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.Form1.resources
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.Properties.Resources.resources
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.csproj.GenerateResource.cache
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.csproj.CoreCompileInputs.cache
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.exe
+C:\Users\atikm\source\repos\LoginPaneliOrnek\LoginPaneliOrnek\obj\Debug\LoginPaneliOrnek.pdb
